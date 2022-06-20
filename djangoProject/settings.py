@@ -131,3 +131,8 @@ FILE_UPLOAD_HANDLERS = [
     'django.core.files.uploadhandler.MemoryFileUploadHandler',
     'django.core.files.uploadhandler.TemporaryFileUploadHandler',
 ]
+
+
+FILES_PATH = 'djangoProject/files/'
+CLUSTERING_FILES_PATH = 'djangoProject/clustering/'
+FILE_NAME = 'data.csv'
